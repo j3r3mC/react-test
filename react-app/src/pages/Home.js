@@ -9,8 +9,6 @@ const Home = () => {
             <Logo />
             <Navigation />
             <br />
-            <p>Welcom in my app, enjoy</p>
-            <br />
             <Countries></Countries>
         </div>
     );
