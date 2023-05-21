@@ -9,7 +9,9 @@ const About = () => {
             <Navigation></Navigation>
             <h1>About</h1>
             <br />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, cum.</p>
+            <p>This App is a listing of 250 countries in the world. You can filter them by continents.
+                You can to decrease or increase the number of countries display.
+                for each country this name, capital and population' number is display on mouse hover.</p>
             <br />
             <p>Lorem ipsum dolor sit amet.</p>
         </div>
