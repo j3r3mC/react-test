@@ -1,5 +1,6 @@
 .countries {
   text-align: center;
+  background: url(../../assets/img/Space-Free-PNG-Image.png) center/cover;
 
   .radio-container {
     justify-content: space-around;
@@ -40,7 +41,7 @@
 
   button {
     margin: 0 auto 20px;
-    background: none;
+    background-color: white;
     border: 2px solid $color-1;
     padding: 4px 10px;
     border-radius: 10px;
