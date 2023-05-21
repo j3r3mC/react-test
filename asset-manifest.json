@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.ae6bfd8c.css",
+    "main.js": "/react-test/static/js/main.ac22f192.js",
+    "static/media/Space-Free-PNG-Image.png": "/react-test/static/media/Space-Free-PNG-Image.8b8f0fdd27888e35fbb2.png",
+    "static/media/main.jpg": "/react-test/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/react-test/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/react-test/index.html",
+    "main.ae6bfd8c.css.map": "/react-test/static/css/main.ae6bfd8c.css.map",
+    "main.ac22f192.js.map": "/react-test/static/js/main.ac22f192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6bfd8c.css",
+    "static/js/main.ac22f192.js"
+  ]
+}
